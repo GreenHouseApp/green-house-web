@@ -103,7 +103,7 @@ export function Header() {
                             </MobileNavLink>
                           </div>
                           <div className="mt-8 flex flex-col gap-4">
-                            <Button href="#">Go to the app</Button>
+                            <Button href="https://app.greenhousesocial.app/">Enter the Experience</Button>
                           </div>
                         </Popover.Panel>
                       </>
@@ -115,7 +115,7 @@ export function Header() {
             {/* <Button href="/login" variant="outline" className="hidden lg:block">
               Log in
             </Button> */}
-            <Button href="https://greenhouse-dev-fe965.web.app/#/" className="hidden lg:flex flex-row">
+            <Button href="https://app.greenhousesocial.app/#/" className="hidden lg:flex flex-row">
             <img src="/icon.png" className="h-6 w-6 mr-2 flex-none"  alt="" />
               Enter the Experience
             </Button>

@@ -24,7 +24,7 @@ export function CallToAction() {
           </p>
           <div className="mt-8 flex justify-center">
             <Button
-              href="https://greenhouse-dev-fe965.web.app/"
+              href="https://app.greenhousesocial.app/"
               variant="outline"
             >
               <img src="/icon.png" className="h-6 w-6 flex-none" alt="" />

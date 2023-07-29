@@ -281,7 +281,7 @@ export function Hero() {
             <div className="mt-8 flex flex-wrap gap-x-6 gap-y-4">
               {/* <AppStoreLink /> */}
               <Button
-                href="https://greenhouse-dev-fe965.web.app/"
+                href="https://app.greenhousesocial.app/"
                 variant="outline"
               >
                 <img src="/icon.png" className="h-6 w-6 flex-none"  alt="" />
