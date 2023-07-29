@@ -24,9 +24,9 @@ const MotionAppScreenBody = motion(AppScreen.Body)
 
 const features = [
   {
-    name: 'GreenHouse is all about real community',
+    name: 'Show off your stash on our Cannagram',
     description:
-      'At GreenHouse we are all about connecting like minded people that value amazing experiences and stunning interactions. We are passionate about cannabis and you can be sure that everyone at on our platform has at least one thing in common… a love for the plant.',
+      'We get it, everyone has that urge to scroll endlessly looking at interesting content, no need to get you wick in a tangle missing this feature, we’ve got you covered, use our Cannagram to scroll through and view some of the most interesting cannabis content you’ll find anywhere on the web. ',
     icon: '/explore.png',
     screen: InviteScreen,
   },
@@ -389,14 +389,13 @@ export function PrimaryFeatures() {
       <Container>
         <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-3xl">
           <h2 className="text-3xl font-medium tracking-tight text-white">
-          Show off your stash on our Cannagram
+            GreenHouse is all about real community
           </h2>
           <p className="mt-2 text-lg text-gray-400">
-            We get it, everyone has that urge to scroll endlessly looking at
-            interesting content, no need to get you wick in a tangle missing
-            this feature, we’ve got you covered, use our Cannagram to scroll
-            through and view some of the most interesting cannabis content
-            you’ll find anywhere on the web.
+            At GreenHouse we are all about connecting like minded people that
+            value amazing experiences and stunning interactions. We are
+            passionate about cannabis and you can be sure that everyone at on
+            our platform has at least one thing in common… a love for the plant.
           </p>
         </div>
       </Container>
